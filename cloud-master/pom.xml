@@ -15,6 +15,9 @@
 
   <modules>
     <module>cloud-eureka</module>
+    <module>cloud-common</module>
+    <module>cloud-provider-api</module>
+    <module>cloud-provider</module>
   </modules>
 
   <developers>
