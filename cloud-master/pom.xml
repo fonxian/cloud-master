@@ -20,6 +20,7 @@
     <module>cloud-provider</module>
     <module>cloud-gateway</module>
       <module>cloud-discovery</module>
+      <module>cloud-config</module>
   </modules>
 
   <developers>

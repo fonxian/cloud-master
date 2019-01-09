@@ -11,6 +11,7 @@ public class MdcAddressServiceImpl implements MdcAddressService {
 
     @Override
     public String getById(Long id) {
+        int a = 1 / 0;
         return "test" + id;
     }
 
